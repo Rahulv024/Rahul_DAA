@@ -26,6 +26,14 @@ Let’s take an example of array [29,10,14,37,13]:
 6.	Termination:
     	The outer loop will terminate when i=4.
     	At this point, the entire list [10,13,13,29,37] is sorted.
+  	
 
+Question 3: Benchmark the runtime of each algorithm. Your benchmarks should include information about your computer (ram, cpu etc.) and be run with various input sizes; from small (array of size 5,10,20) all the way up to large arrays (where your computer is struggling). I should at the very least see a plot of time vs input size n. Feel free to use benchmarking software.
+System Information:
+Processor: Intel64 Family 6 Model 170 Stepping 4, Genuine Intel
+RAM: 15.520217895507812 GB
+Python Version: 3.12.5
+Plot of time vs input sizes
 
+![image](https://github.com/user-attachments/assets/a5570cec-7a29-47cb-a3c3-0db02c8723b2)
 
